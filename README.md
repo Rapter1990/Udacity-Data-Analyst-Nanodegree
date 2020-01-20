@@ -18,7 +18,7 @@ This repository contains the following files:
 4. A ipynb file containing my project;
 5. The PDF file containing my project report based on what I've done.
 
-## 2. [Investigate A Dataset](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P1_Explore_Weather_Trends): Create and explore one visual.
+## 2. [Investigate A Dataset](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P1_Explore_Weather_Trends): How has been world trend changed over 200 years in terms of population, life expectancy, fertility,income per person in each country.
 * Program which I used: Jupyter Notebook
 * Language which I used : SQL,Python
 * Libraries which I Used: Numpy, Pandas, Matplotlib, Seaborn
