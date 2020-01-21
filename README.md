@@ -31,4 +31,4 @@ This repository contains the following files:
 2. A CSV file containing income per individaul with respect to each country;
 3. A CSV file containing life expectancy with respect to each country
 4. A CSV file containing total population with respect to each country
-5. A ipynb file containing my project;
+5. A ipynb,html and pdf file containing my project;
