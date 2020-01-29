@@ -20,7 +20,7 @@ This repository contains the following files:
 
 ## 2. [Investigate A Dataset](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P2_Investigate_A_Dataset): How has been world trend changed over 200 years in terms of population, life expectancy, fertility,income per person in each country.
 * Program which I used: Jupyter Notebook
-* Language which I used : SQL,Python
+* Language which I used : Python
 * Libraries which I Used: Numpy, Pandas, Matplotlib, Seaborn
 * Techniques which I used: Data Wrangling, Data Cleaning, Data Merging, Visualtization  
 
@@ -32,3 +32,9 @@ This repository contains the following files:
 3. A CSV file containing life expectancy with respect to each country
 4. A CSV file containing total population with respect to each country
 5. A ipynb,html and pdf file containing my project;
+
+## 3. [Analyze A/B Test Results](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P2_Investigate_A_Dataset): Analyze A/B Test Results
+* Program which I used: Jupyter Notebook
+* Language which I used : Python
+* Libraries which I Used: Numpy, Pandas
+* Techniques which I used: Data Wrangling, Data Analytics, Logistic Regression, Practical Statistic
