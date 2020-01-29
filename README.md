@@ -38,3 +38,11 @@ This repository contains the following files:
 * Language which I used : Python
 * Libraries which I Used: Numpy, Pandas
 * Techniques which I used: Data Wrangling, Data Analytics, Logistic Regression, Practical Statistic
+
+### Repository Contents
+This repository contains the following files:
+
+1. A CSV file containing A/B dataset;
+2. A CSV file containing edited A/B dataset;
+3. A CSV file containing countries information
+4. A ipynb, file containing my project;
