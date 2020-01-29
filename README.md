@@ -33,7 +33,7 @@ This repository contains the following files:
 4. A CSV file containing total population with respect to each country
 5. A ipynb,html and pdf file containing my project;
 
-## 3. [Analyze A/B Test Results](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P2_Investigate_A_Dataset): Analyze A/B Test Results
+## 3. [Analyze A/B Test Results](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P3_Analyze_AB_Test): Analyze A/B Test Results
 * Program which I used: Jupyter Notebook
 * Language which I used : Python
 * Libraries which I Used: Numpy, Pandas
