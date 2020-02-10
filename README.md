@@ -46,3 +46,19 @@ This repository contains the following files:
 2. A CSV file containing edited A/B dataset;
 3. A CSV file containing countries information
 4. A ipynb, file containing my project;
+
+
+## 4. [Wrangle and Analyze Data](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P3_Analyze_AB_Test): WeRateDogs
+* Program which I used: Jupyter Notebook
+* Language which I used : Python
+* Libraries which I Used: Numpy, Pandas
+* Techniques which I used: Data Gathering, Data Assessing, Data Cleaning, Data Wrangling, Visualtization  
+
+### Repository Contents
+This repository contains the following files:
+
+1. A CSV file containing WeRateDogs Twitter archive;
+2. A TSV file deriving from https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv as tweet image predictions;
+3. A Text file named for tweet_json.txt getting values from WeRateDogs Twitter archive csv with tweepy and Twitter API
+4. A Text file named for tweet-json.txt getting values from WeRateDogs Twitter archive csv file without tweepy and Twitter API
+5. A ipynb, file containing my project;
