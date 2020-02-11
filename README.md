@@ -48,7 +48,7 @@ This repository contains the following files:
 4. A ipynb, file containing my project;
 
 
-## 4. [Wrangle and Analyze Data](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P3_Analyze_AB_Test): WeRateDogs
+## 4. [Wrangle and Analyze Data](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P4_Wrangle_And_Analyze_Data): WeRateDogs
 * Program which I used: Jupyter Notebook
 * Language which I used : Python
 * Libraries which I Used: Numpy, Pandas
