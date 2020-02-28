@@ -67,3 +67,24 @@ This repository contains the following files:
     consumer_secret = "k9JoR24jMc09Ikl9IPurim8tCsKQNSvSvsw3SgfhO14h3vQwZ9"
     access_token = "411318653-hFPRaoKqZ0IlCN1nGI4KED7oalEVbak1wKKflBBW"
     access_secret = "zhyKTfCcFHIH4Gh3C2d2n1svZe6zf9OsXeSQJ704a5lD2"
+    
+    
+## 5. [Communicate Data Findings](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P4_Wrangle_And_Analyze_Data): Bay Wheels Analysis (older name : Ford GoBike)
+* Program which I used: Jupyter Notebook
+* Language which I used : Python
+* Libraries which I Used: Numpy, Pandas
+* Techniques which I used: Data Gathering, Data Assessing, Data Cleaning, Data Wrangling, Visualtization
+
+### Repository Contents
+This repository contains the following files:
+
+1. A CSV file containing baywheels tripdata in Janunary 2020;
+2. A CSV file containing clean baywheels tripdata after the process of data gathering , data Assessing, data Cleaning;
+3. readme file giving detailed information about the project;
+4. output_toggle.tpl file exporting your slide deck and containing extra functionality to the slide deck by hiding the code to start, only making it visible if the reader clicks on the output which should mostly be visualizations in the case of this project;
+5. An exploration ipynb file containing my project;
+6. A slide deck ipynb file providing how the slide deck should be organized and including pre-set slideshow settings;
+7. An exploration html file containing my project;
+8. A slide deck html file providing how the slide deck should be organized and including pre-set slideshow settings;
+9. To view the slide deck, this command is used
+   jupyter nbconvert bay_wheels_project_analysis.ipynb --to slides --post serve --template output_toggle
