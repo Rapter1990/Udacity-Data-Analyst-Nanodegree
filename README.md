@@ -69,7 +69,7 @@ This repository contains the following files:
     access_secret = "zhyKTfCcFHIH4Gh3C2d2n1svZe6zf9OsXeSQJ704a5lD2"
     
     
-## 5. [Communicate Data Findings](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P4_Wrangle_And_Analyze_Data): Bay Wheels Analysis (older name : Ford GoBike)
+## 5. [Communicate Data Findings](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/tree/master/P5_Communicate_Data_Findings): Bay Wheels Analysis (older name : Ford GoBike)
 * Program which I used: Jupyter Notebook
 * Language which I used : Python
 * Libraries which I Used: Numpy, Pandas
