@@ -86,6 +86,7 @@ This repository contains the following files:
 6. A slide deck ipynb file providing how the slide deck should be organized and including pre-set slideshow settings;
 7. An exploration html file containing my project;
 8. A slide deck html file providing how the slide deck should be organized and including pre-set slideshow settings;
-9. To view the slide deck, this command is used
+9. To view the slide deck, this command is used as shown below
+
    jupyter nbconvert slide_deck.ipynb --to slides --template output-toggle.tpl
 --post serve
