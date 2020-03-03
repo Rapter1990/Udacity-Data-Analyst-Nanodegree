@@ -87,4 +87,4 @@ This repository contains the following files:
 7. An exploration html file containing my project;
 8. A slide deck html file providing how the slide deck should be organized and including pre-set slideshow settings;
 9. To view the slide deck, this command is used
-   jupyter nbconvert bay_wheels_project_analysis.ipynb --to slides --post serve --template output_toggle
+   jupyter nbconvert slide_deck.ipynb --to slides --post serve --template output_toggle
