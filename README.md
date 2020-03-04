@@ -91,6 +91,6 @@ This repository contains the following files:
    jupyter nbconvert slide_deck.ipynb --to slides --template output-toggle.tpl
 --post serve
 
-Data Analyst Nanodegree Certificate
 
+# Data Analyst Nanodegree Certificate
 ![Image description](https://github.com/Rapter1990/Udacity-Data-Analyst-Nanodegree/blob/master/data_analyst_nanodegree_certificate.PNG)
