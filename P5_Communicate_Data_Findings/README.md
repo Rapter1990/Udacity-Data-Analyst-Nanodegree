@@ -15,7 +15,7 @@ In the exploration, there are findings to be itemized as each step shown below.
 
 ### Univariate Exploration
 
-Visualization 1 - The last three days of Janurary as 28th,29th and lastly 30th are shown the most usage of bay wheels.
+<b>Visualization 1</b> - The last three days of Janurary as 28th,29th and lastly 30th are shown the most usage of bay wheels.
 
 Visualization 2 - The trip duration in minutes for all number of bike bikes is ranged from 0 - 60 minutes.While most people use the bay wheel system to ride a bike in approximately 0 - 10 minutes, not too much people have been riding a bike for more than 10 minutes.The figure is right-skewed graph because most variable are located left-hand side.
 
