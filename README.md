@@ -64,8 +64,11 @@ This repository contains the following files:
 5. A ipynb, file containing my project;
 6. Twitter API Information
     consumer_key = "UnbSXP1KKBRB1kkx5Ry4Yfezi"
+    
     consumer_secret = "k9JoR24jMc09Ikl9IPurim8tCsKQNSvSvsw3SgfhO14h3vQwZ9"
+    
     access_token = "411318653-hFPRaoKqZ0IlCN1nGI4KED7oalEVbak1wKKflBBW"
+    
     access_secret = "zhyKTfCcFHIH4Gh3C2d2n1svZe6zf9OsXeSQJ704a5lD2"
     
     
